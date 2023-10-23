@@ -1,0 +1,16 @@
+# Git Learn problem Statement
+----------------------------------------------------
+
+1. Create a Master repo - Git init
+2. Add .gitignore and .gitattributes
+3. Create a Unity Project in this root directory
+4. Git add .gitignore, git add .gitattributes , git add "Unity Project Name"
+4. Git status  --> Check changes in the file
+5. git add .
+6. git commit -m "your message"
+6. git remote add -u origin "url"
+
+
+# problems may arise
+-------------------------------------------------
+
