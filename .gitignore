@@ -1,0 +1,7 @@
+# Ignore all files and directories by default
+*
+
+# Explicitly include the GitLearn/Assets, Gitlearn/ProjectSettings, and Gitlearn/Packages directories
+!/GitLearn/Assets/
+!/GitLearn/ProjectSettings/
+!/GitLearn/Packages/
