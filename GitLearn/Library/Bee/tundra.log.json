@@ -328,6 +328,7 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm","enqueuedNodeIndex":275,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll (+2 others)","enqueueingNodeIndex":272}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp","enqueuedNodeIndex":274,"enqueueingNodeAnnotation":"MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm","enqueueingNodeIndex":275}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.pdb","enqueuedNodeIndex":329,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+<<<<<<< HEAD
 {"msg":"inputSignatureChanged","annotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt","index":1,"changes":[{"key":"WriteFilePayload","value":"C:\\Users\\johnj\\Desktop\\MyLearnings\\GitLearnBranch2\\GitLearn\\GitLearn","oldvalue":null}]}
 {"msg":"inputSignatureChanged","annotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2","index":3,"changes":[{"key":"WriteFilePayload","value":"/pathmap:\"C:\\Users\\johnj\\Desktop\\MyLearnings\\GitLearnBranch2\\GitLearn\\GitLearn\"=.","oldvalue":null}]}
 {"msg":"inputSignatureChanged","annotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2","index":99,"changes":[{"key":"WriteFilePayload","value":"/pathmap:\"C:\\Users\\johnj\\Desktop\\MyLearnings\\GitLearnBranch2\\GitLearn\\GitLearn\"=.","oldvalue":null}]}
@@ -565,3 +566,5 @@
 {"msg":"runNodeAction","annotation":"MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm","displayName":"MovedFromExtractorCombine Unity.VisualScripting.Shared.Editor.dll","index":275}
 {"msg":"noderesult","processed_node_count":320,"number_of_nodes_ever_queued":329,"annotation":"MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm","index":262,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm"}
 {"msg":"noderesult","processed_node_count":324,"number_of_nodes_ever_queued":329,"annotation":"MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm","index":275,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\1900b0aE.dag\\Unity.VisualScripting.Shared.Editor.dll.mvfrm"}
+=======
+>>>>>>> 1df042dd651000c402ec92e6d039945cd2fbf956

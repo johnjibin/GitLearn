@@ -1,5 +1,4 @@
 * text=auto
-
 # Unity files
 *.meta -text -merge=unityamlmerge
 *.unity -text -merge=unityamlmerge
@@ -69,3 +68,4 @@ ArtifactDB filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 lld filter=lfs diff=lfs merge=lfs -text
 dsymutil filter=lfs diff=lfs merge=lfs -text
+GitLearn/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
